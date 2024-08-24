@@ -2,8 +2,7 @@
 Making Trading easy, with machine learning predictions.
 
 
-# Trading
-is a term we've been hearing a lot lately, often associated with high risks. But what if there were an automated robot that could track market trends, buy and sell at the right time, and minimize risks as much as possible? This idea inspired was behind this exciting project.
+TRADING is a term we've been hearing a lot lately, often associated with high risks. But what if there were an automated robot that could track market trends, buy and sell at the right time, and minimize risks as much as possible? This idea inspired was behind this exciting project.
 
 DOES IT FEEL LIKE TRADING ISN’T YOUR THING? 
 DOES IT LOOK LIKE IT’S A BIG RISK TO YOU AS A BEGINNER?
