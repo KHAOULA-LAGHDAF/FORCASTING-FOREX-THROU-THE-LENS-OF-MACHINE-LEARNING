@@ -56,12 +56,10 @@ To set up the project:
 2.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/forex-trading-lstm.git
-    cd forex-trading-lstm
+    git clone https://github.com/KHAOULA-LAGHDAF/FORCASTING-FOREX-THROU-THE-LENS-OF-MACHINE-LEARNING.git
+    cd FORCASTING-FOREX-THROU-THE-LENS-OF-MACHINE-LEARNING
     ```
 
-3.  **(Optional) Model Training:**
-     * If retraining is necessary, follow the instructions that are in the `README.md` file for the model training section.
 
 4. **Deployment:**
   * Transfer the MQL5 code to your MetaTrader 5.
